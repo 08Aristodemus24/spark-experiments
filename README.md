@@ -7,6 +7,7 @@ This repository is the ultimate guide for mastering advanced Spark Performance T
 
 | Concept             | YouTube Link                                            | Code                                                     |
 |---------------------|---------------------------------------------------------|----------------------------------------------------------|
+| Spark 30 Concepts           | [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://youtu.be/z4Owc8RRApg) | |
 | Spark Query Plans           | [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://youtu.be/KnUXztKueMU) | [![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)](/spark/2_reading_query_plans.ipynb) |
 | Spark DAGs           | [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://youtu.be/O_45zAz1OGk) | [![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)](/spark/3_reading_query_DAGs.ipynb) |
 | Spark Memory Management           | [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://youtu.be/sXL1qgrPysg) |  |
@@ -23,6 +24,5 @@ This repository is the ultimate guide for mastering advanced Spark Performance T
 
 ## Contact
 
-For any questions or feedback, feel free to reach out:
-- Afaque Ahmad - [LinkedIn](https://www.linkedin.com/in/afaque-ahmad-5a5847129/)
-- GitHub Issues - [Open an Issue](https://github.com/afaqueahmad7117/spark-experiments/issues)
+- [LinkedIn](https://www.linkedin.com/in/afaque-ahmad-5a5847129/)
+- [YouTube](https://www.youtube.com/@afaqueahmad7117)
